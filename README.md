@@ -47,10 +47,12 @@ This project is licensed under the [MIT LICENSE]
 ## Implementation
 
 Clone this repository by:
-git clone https://github.com/Tharagesh17/ChatwithAI_By_We-Are-Doers
+***git clone https://github.com/Tharagesh17/ChatwithAI_By_We-Are-Doers**
 in cmd or Terminal.
 
-Change your API key in index.py 
+***Change your API key in index.py **
 
 //GET YOUR API KEY IN THE BELOW LINK:-
 ///https://aistudio.google.com/app/apikey
+
+***streamlit run index.py***
